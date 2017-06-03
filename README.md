@@ -1,6 +1,6 @@
 # epsilon-closure
 
-ee......You should keep the map don't have multiple edges.
+ee......You should keep the map doesn't have multiple edges.
 
 n is the number of edges' types
 
